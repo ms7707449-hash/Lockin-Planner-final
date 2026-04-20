@@ -14,7 +14,7 @@ const BRAND = {
   accentSoft: "rgba(200,245,90,0.10)",
 };
 
-const CTA_LINK = "#pricing";
+const CTA_LINK = "https://lockinplanner12.gumroad.com/l/ahfzc?wanted=true";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 22 },
