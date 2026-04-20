@@ -203,25 +203,21 @@ function HorizontalMockups() {
   const items = [
     {
       title: "Planner walkthrough",
-      line: "Replace this with your daily mockup image or video.",
       src: "/mockups/Mockupvid.mp4",
       type: "video",
     },
     {
       title: "Daily planner preview",
-      line: "Replace this with your monthly mockup image or video.",
       src: "/mockups/Mockup1.jpeg",
       type: "image",
     },
     {
       title: "Monthly planner preview",
-      line: "Replace this with your yearly mockup image or video.",
       src: "/mockups/Mockup2.jpeg",
       type: "image",
     },
     {
       title: "Yearly planner preview",
-      line: "Replace this with your planner video mockup.",
       src: "/mockups/Mockup3.jpeg",
       type: "image",
     },
